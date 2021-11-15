@@ -7,7 +7,7 @@ from api_verif.api_verif import ApiVerif
 from interface.to_telegram import ToTelegram
 
 
-TOKEN = '2136748322:AAGFFJAJagU16Bhm7Qf-F0d-5N27HFqsnwk'
+TOKEN = 'my token'
 
 
 def start(update, context):
